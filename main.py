@@ -2,4 +2,8 @@ print ("Lab 1: Version Control")
 print ("Author: [MANZANO]")
 print ("Student ID: TUPM-25-4761")
 print ("Class Section: [BSECE-1C]")
+<<<<<<< HEAD
 print ("Login Feature enabled in main")
+=======
+print ("Login Feature disabled in simulation")
+>>>>>>> simulation
